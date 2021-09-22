@@ -1,0 +1,8 @@
+•	Over 7+ Years of proficient experience in developing web page quickly and effectively using JQuery, HTML5, CSS3, Responsive Web Design, Bootstrap and experience in making web pages cross browser compatible.
+•	Experience in object oriented programming analysis with extensive full Software Development Life Cycle (SDLC) experience in Application Software Specifications, Design, Development, Testing and debugging, Maintenance.
+•	Hands-on experience in developing applications in a single page applications (SPAs) using various JavaScript frameworks like AngularJS, React.js, Node.js, BackboneJS and Bootstrap.
+•	Expertise in Angular for developing apps, custom components, services, directives and routing, testing which meet the requirements of business model.
+•	Expertise in creating Custom Reusable React Components Library and worked with Redux architecture using complex Object Oriented concepts in improving the performance of the websites.
+•	Experience in developing and Analysis of Automation Test Codes in Selenium Web Driver with Java Language and in Protractor with Javascript.
+•	Extensive experience in Lambda Expressions, Functional interfaces Stream API's, Time API, and Improvements on Collection, Concurrency, and IO improvements by using Java 8.
+•	Experience with Microservices Architecture Style and the related patterns and have exposure to Microservices, cloud native, 12 Factor app and serverless Architectural style.
